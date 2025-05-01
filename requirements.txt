@@ -1,5 +1,6 @@
 openai>=1.0.0
 langchain>=0.1.0
+langchain-community>=0.0.10
 faiss-cpu>=1.7.4
 streamlit>=1.30.0
 python-dotenv>=1.0.0
@@ -12,4 +13,5 @@ SpeechRecognition>=3.10.0
 pyttsx3>=2.90
 python-jose>=3.3.0
 passlib>=1.7.4
-bcrypt>=4.0.1 
+bcrypt>=4.0.1
+tiktoken>=0.5.1 
